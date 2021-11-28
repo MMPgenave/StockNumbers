@@ -39,7 +39,7 @@ export default function App() {
     <>
       <h3>
         As you scroll down to get the bottom of the page, 15 new box added to
-        the DOM
+        the DOM, and so on... .
       </h3>
       <h3 style={{ color: "blue" }}>
         Open the console to see the functionality better
